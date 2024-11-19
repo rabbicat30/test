@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.6">
   <diagram name="第 1 页" id="6ZynGIqny8JQi3k2qk-m">
-    <mxGraphModel dx="1943" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1554" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -345,11 +345,6 @@
         <mxCell id="iiegiVHGRn6ZHCrdPuME-19" value="&lt;b&gt;&lt;font color=&quot;#999900&quot; style=&quot;font-size: 18px;&quot;&gt;Feed-Forward Network&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="iiegiVHGRn6ZHCrdPuME-51">
           <mxGeometry x="10" y="64.5" width="257" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iiegiVHGRn6ZHCrdPuME-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iiegiVHGRn6ZHCrdPuME-51" source="iiegiVHGRn6ZHCrdPuME-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="138.5" y="-23" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iiegiVHGRn6ZHCrdPuME-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Add &amp;amp; Norm&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#B3B3B3;" vertex="1" parent="iiegiVHGRn6ZHCrdPuME-51">
           <mxGeometry x="10" y="14.5" width="257" height="30" as="geometry" />
         </mxCell>
@@ -479,6 +474,12 @@
         </mxCell>
         <mxCell id="iiegiVHGRn6ZHCrdPuME-93" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$\xi _{n}$$&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="iiegiVHGRn6ZHCrdPuME-96">
           <mxGeometry x="131" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iiegiVHGRn6ZHCrdPuME-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=1.367;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;jumpSize=6;endSize=7;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="iiegiVHGRn6ZHCrdPuME-96" source="iiegiVHGRn6ZHCrdPuME-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="89.95485436893205" y="63.49000000000001" as="sourcePoint" />
+            <mxPoint x="89.9699999999998" y="36" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iiegiVHGRn6ZHCrdPuME-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="iiegiVHGRn6ZHCrdPuME-3">
           <mxGeometry relative="1" as="geometry">
@@ -788,13 +789,6 @@
         <mxCell id="iiegiVHGRn6ZHCrdPuME-199" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;$$\bar e_{s1}$$&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="145" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iiegiVHGRn6ZHCrdPuME-202" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="814" y="260" as="sourcePoint" />
-            <mxPoint x="894" y="260" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iiegiVHGRn6ZHCrdPuME-205" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$\bar \xi _{s_{1}}$$&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1164" y="144" width="40" height="30" as="geometry" />
         </mxCell>
@@ -951,6 +945,13 @@
         </mxCell>
         <mxCell id="iiegiVHGRn6ZHCrdPuME-290" value="" style="rounded=0;whiteSpace=wrap;html=1;pointerEvents=0;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;strokeWidth=3;strokeColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="948" y="610" width="406" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="iiegiVHGRn6ZHCrdPuME-292" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;entryX=0.548;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iiegiVHGRn6ZHCrdPuME-6" target="iiegiVHGRn6ZHCrdPuME-84">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="814" y="260" as="sourcePoint" />
+            <mxPoint x="894" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
