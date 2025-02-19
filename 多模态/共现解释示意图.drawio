@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.14">
   <diagram name="第 1 页" id="SQuvt2xwclRrodI6MMpy">
-    <mxGraphModel>
+    <mxGraphModel dx="1554" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vlRzRPjT08ywGqoHA9Gi-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images-na.ssl-images-amazon.com/images/I/417Kj4xy8HL.jpg;" vertex="1" parent="1">
+          <mxGeometry x="244" y="460" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="vlRzRPjT08ywGqoHA9Gi-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images-na.ssl-images-amazon.com/images/I/3114GG6DFAL.jpg;" vertex="1" parent="1">
+          <mxGeometry x="254" y="100" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="vlRzRPjT08ywGqoHA9Gi-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images-na.ssl-images-amazon.com/images/I/51C0P2MP4GL.jpg;" vertex="1" parent="1">
+          <mxGeometry x="430" y="445" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vlRzRPjT08ywGqoHA9Gi-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images-na.ssl-images-amazon.com/images/I/31Y1gGPy88L.jpg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="vlRzRPjT08ywGqoHA9Gi-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images-na.ssl-images-amazon.com/images/I/31McAzdLqvL.jpg;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120.00000000000006" width="230" height="153.18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
