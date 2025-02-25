@@ -7,7 +7,7 @@
         <mxCell id="MCmSqlo72t7WivyZ8LUE-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;基于量化与反事实推理的多模态序列推荐算法研究&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="269.5" y="210" width="540" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MCmSqlo72t7WivyZ8LUE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="MCmSqlo72t7WivyZ8LUE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="9" y="320" width="1051" height="320" as="geometry" />
         </mxCell>
         <mxCell id="MCmSqlo72t7WivyZ8LUE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="MCmSqlo72t7WivyZ8LUE-3" target="MCmSqlo72t7WivyZ8LUE-7" edge="1">
