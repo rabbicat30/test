@@ -52,8 +52,8 @@
         <mxCell id="mn31JmgTFe-Z0Zx-DjP2-14" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;Add &amp;amp; Norm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;fontColor=#B3B3B3;container=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="132.5" y="150" width="184.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mn31JmgTFe-Z0Zx-DjP2-15" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;向量量化感知的解码器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;rotation=0;container=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="140" width="64" height="460" as="geometry" />
+        <mxCell id="mn31JmgTFe-Z0Zx-DjP2-15" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;多模态向量量化感知的解码器&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;rotation=0;container=0;" parent="1" vertex="1">
+          <mxGeometry x="27" y="261" width="64" height="240" as="geometry" />
         </mxCell>
         <mxCell id="mn31JmgTFe-Z0Zx-DjP2-90" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#FFFFFF;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="462.26" y="130" width="303.75" height="358" as="geometry" />
@@ -82,7 +82,7 @@
         <mxCell id="mn31JmgTFe-Z0Zx-DjP2-97" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px; color: rgb(0, 0, 0);&quot;&gt;Add &amp;amp; Norm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#000000;fontColor=#B3B3B3;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="491.75" y="336" width="184.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mn31JmgTFe-Z0Zx-DjP2-98" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;宋体&quot;&gt;上下文编码器&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=0;fontColor=#FFD966;" parent="1" vertex="1">
+        <mxCell id="mn31JmgTFe-Z0Zx-DjP2-98" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;宋体&quot;&gt;多模态上下文编码器&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;rotation=0;fontColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="706.01" y="205.5" width="60" height="185.5" as="geometry" />
         </mxCell>
         <mxCell id="mn31JmgTFe-Z0Zx-DjP2-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="mn31JmgTFe-Z0Zx-DjP2-170" target="mn31JmgTFe-Z0Zx-DjP2-95" edge="1">
